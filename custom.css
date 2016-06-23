@@ -1,0 +1,107 @@
+body{
+	/*background-color: #00506b;*/
+	font-family: sans-serif;
+}
+.fbheader {
+    background-color: #00506b;
+    color: white;
+   
+}
+
+.btn-info {
+	background: #0999a0;
+}
+
+.goldbtn{
+
+	margin: 10px;
+	padding: 10px 30px 10px 30px;
+
+}
+
+.freebtn{
+	margin: 10px;
+	padding:10px 30px 10px 30px;
+}
+.createForms{
+
+	height: 500px;
+	margin-bottom: 0px;
+	background-image: url(bgImageSMALL.jpg);
+ 	background-size: 1849px 500px;
+ 	background-repeat:no-repeat;
+ 	display: compact;
+ 	padding-top: 10%;
+ 	
+}
+
+.whyfmb{
+	background-color: white;
+	/*color: #009fb1;*/
+	color: #807a68;
+	font-size: 25px;
+	font-weight: normal;
+	margin-top: 0px;
+	padding: 50px 0 50px 0; 
+}
+
+.linkWhyFmb{
+	/*color:#009fb1;*/
+	color: #807a68;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.featureImg{
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;	
+}
+
+.featureTxt{
+	color: #009fb1;
+
+}
+
+.featureRow{
+	text-align: center;
+	background-color: #f8fafb;
+	font-size: 20px;
+	padding: 50px 0 50px 0;
+}
+
+#circle {
+  position: relative;
+  background-color: #0999a0;
+  margin: 20px auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 200px;
+}
+
+.startFree{
+	background-color: white;
+	padding: 50px 0 50px 0;
+	
+}
+
+.ready{
+	color: #ed448d;
+	font-size: 30px;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+.footer{
+	background-color: #edf7d9;
+	padding: 50px 0 50px 0;
+	font-family: sans-serif;
+
+}
+
+.termsArea{
+	background-color: #f1f7e6;
+	font-family: sans-serif;
+	
+	border-top: black 1px;
+}
