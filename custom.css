@@ -105,3 +105,28 @@ body{
 	
 	border-top: black 1px;
 }
+
+
+/**** CSS for pricing.html ***/
+
+.featureList {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 100%;
+  font-size: 120%;
+  font-weight: normal;
+  font-style: sans-serif;
+
+
+}
+
+.priceHeading{
+	background-color: #0999a0; 
+}
+
+
+
+/*** End of CSS for pricing.html ***/
